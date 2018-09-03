@@ -1,0 +1,19 @@
+#labels Development
+Notes on development of reports. Which reports are useful, which aren't. How best to present and implement.
+
+==Report Data==
+
+*Expenses*
+
+ * Average over time (selectable time, 1 month, 2 months, 3 months - may be xIncome periods)
+ * Expense per Income period (selectable period or date range)
+ * Show actual Income overlay
+ * Show average Income overlay (would be a straight line)
+
+==Interface==
+
+Splitview
+ * Left pane has report buttons - Not source list view (whatever is more higgish)
+ * Rightpane
+  * Graph at top
+  * Changable setting, buttons at bottom.

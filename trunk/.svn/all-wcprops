@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/108/trunk
+END
+Account.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/79/trunk/Account.m
+END
+NSEntityDescription+Transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/NSEntityDescription+Transaction.h
+END
+MLappdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/MLappdelegate.h
+END
+MLBudgetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/104/trunk/MLBudgetController.h
+END
+MLimportController.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/102/trunk/MLimportController.h
+END
+MLappdelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/MLappdelegate.m
+END
+MLBudgetController.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/105/trunk/MLBudgetController.m
+END
+MLimportController.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/102/trunk/MLimportController.m
+END
+Envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/15/trunk/Envelope.h
+END
+moolah_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/moolah_Prefix.pch
+END
+MLTransactionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/107/trunk/MLTransactionController.h
+END
+MLCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/trunk/MLCalculator.h
+END
+Envelope.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/95/trunk/Envelope.m
+END
+MyDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/79/trunk/MyDocument.h
+END
+NSManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/NSManagedObject.h
+END
+MLTransactionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/107/trunk/MLTransactionController.m
+END
+MLCalculator.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/100/trunk/MLCalculator.m
+END
+MLAccountController.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/103/trunk/MLAccountController.h
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/version.plist
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/main.m
+END
+MyDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/104/trunk/MyDocument.m
+END
+NSManagedObject+supression.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/NSManagedObject+supression.h
+END
+Account.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/79/trunk/Account.h
+END
+MLAccountController.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/103/trunk/MLAccountController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/108/trunk/Info.plist
+END

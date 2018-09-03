@@ -1,0 +1,16 @@
+#labels Docs
+*Say Hiya To Envelope Budgeting*
+
+moolah is a simple personal finance manager that concentrates on envelope budgeting. Most personal finance programs have a budgeting feature of some sort and nearly all of these track what you've spent over the last month showing you fancy reports and categories without actually helping you get your spending under control. What good is that really? You've already spent your money!
+
+Envelope budgeting is different, simple and effective. In the old world you got paid cash in an envelope. You went home and divided this cash into other envelopes to pay the bills over the month. You'd have a food envelope, and electricity envelope and maybe even a entertainment envelope. Any spare cash left in your pay envelope was spare cash to do with what you wanted, safe in the knowledge that your essential expenses of the month were covered. For a more indepth explanation check out [http://www.daveramsey.com/etc/cms/index.cfm?intContentID=3461 Dave Ramsay's] excellent site.
+
+*How moolah Does it*
+
+moolah operates as a normal, everyday, [http://www.gnucash.org/docs/v1.6/C/t2504.html double entry accounting] program. It allows you to create all 4 account types and record or import your bank transactions in the [TransactionWindow]. This shows you real money in your accounts and where you've spent it. It has nothing to do with Envelopes or Budgeting.
+
+Every expense and income account however, has a _virtual_ envelope that appears in the [BudgetWindow]. In this window you set how much money you want to put in these envelopes when you get paid then when you click the _Pay Envelopes_ button moolah automatically takes the money out of your income envelope and distributes it amongst the expense envelopes.
+
+As you record _real_ transactions in your expense accounts, the amounts are deducted from your envelopes. You'll be able to see which envelopes are running out of money and which have too much. When you get paid again you top up your envelopes. Simple!
+
+[CreatingAccounts next >> Creating Accounts]

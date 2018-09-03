@@ -1,0 +1,4 @@
+#labels Docs
+Clicking the Budget toolbar button or choosing _Show Budget_ from the Window Menu will open the _Budget Window_.
+
+On the left hand side there is a drop down button for your Income Envelopes (remember these match your accounts) and on the right is a table with all your Expense Envelopes. You can only set up a plan to distribute funds from one Income Envelope.

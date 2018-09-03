@@ -1,0 +1,24 @@
+#labels Docs
+When you first start moolah select File -> New.
+
+The [TransactionWindow] will open. Click on the *A* button to open the [AccountsWindow]. Add accounts by clicking the *+* button at the top. Enter a name for the account and set the account type.
+
+*Asset*
+
+These are things that you own. Bank accounts, cash, checking or everyday transaction accounts. At the very least you should create an account to represent your bank account.
+
+*Liability*
+
+These represent loan, credit card, mortgages. Anything that you can owe money on.
+
+*Income*
+
+In double entry accounting money has to come from somewhere. These accounts represent money that comes from outside your accounting system. Create one for your pay, and another called *Misc Income*. Misc Income is good for opening balances on your other accounts and money that comes from other sources (rebates, gifts etc).
+
+*Expenses*
+
+In envelope budgting its good to have a decent selection of expense accounts that represent sensible spending categories. Create expense accounts for Food, Utilities, Entertainment, House Maintence, Car Insurance, House Insurance, Medical etc.
+
+Once done click the Budget checkbox next to the accounts you want to use in your Budget. Only Income and Expense accounts are used for budgeting.
+
+[SettingYourBudget next >> Setting your budget]

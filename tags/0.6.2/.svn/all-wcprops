@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/94/tags/0.6.2
+END
+MLBudgetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/tags/0.6.2/MLBudgetController.h
+END
+MLimportController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/tags/0.6.2/MLimportController.h
+END
+MLappdelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/94/tags/0.6.2/MLappdelegate.m
+END
+MLBudgetController.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/tags/0.6.2/MLBudgetController.m
+END
+MLimportController.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/tags/0.6.2/MLimportController.m
+END
+Envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/94/tags/0.6.2/Envelope.h
+END
+moolah_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/94/tags/0.6.2/moolah_Prefix.pch
+END
+MLTransactionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/94/tags/0.6.2/MLTransactionController.h
+END
+Envelope.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/94/tags/0.6.2/Envelope.m
+END
+MLCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/94/tags/0.6.2/MLCalculator.h
+END
+MyDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/94/tags/0.6.2/MyDocument.h
+END
+MLTransactionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/94/tags/0.6.2/MLTransactionController.m
+END
+MLCalculator.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/94/tags/0.6.2/MLCalculator.m
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/94/tags/0.6.2/version.plist
+END
+MyDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/94/tags/0.6.2/MyDocument.m
+END
+MLAccountController.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/94/tags/0.6.2/MLAccountController.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/94/tags/0.6.2/main.m
+END
+NSManagedObject+supression.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/94/tags/0.6.2/NSManagedObject+supression.h
+END
+Account.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/94/tags/0.6.2/Account.h
+END
+MLAccountController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/94/tags/0.6.2/MLAccountController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/94/tags/0.6.2/Info.plist
+END
+Account.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/94/tags/0.6.2/Account.m
+END
+NSEntityDescription+Transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/94/tags/0.6.2/NSEntityDescription+Transaction.h
+END
+MLappdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/94/tags/0.6.2/MLappdelegate.h
+END

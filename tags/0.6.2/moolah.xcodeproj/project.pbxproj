@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 44;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3502C4760E0FD4F100A2B11A /* MLAccounts.nib in Resources */ = {isa = PBXBuildFile; fileRef = 3502C4750E0FD4F100A2B11A /* MLAccounts.nib */; };
+		3502C47C0E0FD88900A2B11A /* MLAccountController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3502C47B0E0FD88900A2B11A /* MLAccountController.m */; };
+		3537A2CF0EE9454D00096D89 /* MLimport.nib in Resources */ = {isa = PBXBuildFile; fileRef = 3537A2CE0EE9454D00096D89 /* MLimport.nib */; };
+		3559CC8A0E9240D000B973E6 /* Envelope.m in Sources */ = {isa = PBXBuildFile; fileRef = 3559CC890E9240D000B973E6 /* Envelope.m */; };
+		357B80B20F5FE1C2008BCB13 /* v3.xcmappingmodel in Sources */ = {isa = PBXBuildFile; fileRef = 357B80B10F5FE1C2008BCB13 /* v3.xcmappingmodel */; };
+		3596B7EC0E0F42A70058B85C /* MLBudget.nib in Resources */ = {isa = PBXBuildFile; fileRef = 3596B7EB0E0F42A70058B85C /* MLBudget.nib */; };
+		3596B7F00E0F42F00058B85C /* MLBudgetController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3596B7EF0E0F42F00058B85C /* MLBudgetController.m */; };
+		3597ED600E8F870400547677 /* Account.m in Sources */ = {isa = PBXBuildFile; fileRef = 3597ED5F0E8F870400547677 /* Account.m */; };
+		359943330E3031F0000363B5 /* MLimportController.m in Sources */ = {isa = PBXBuildFile; fileRef = 359943320E3031F0000363B5 /* MLimportController.m */; };
+		35A6BBAF0E90DAFD0008429B /* MLappdelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A6BBAE0E90DAFD0008429B /* MLappdelegate.m */; };
+		35B6F41F0F1EC38F000761EA /* moolahcoredata_DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 35B6F41E0F1EC38F000761EA /* moolahcoredata_DataModel.xcdatamodeld */; };
+		35B6F45E0F1EC64B000761EA /* v2.xcmappingmodel in Sources */ = {isa = PBXBuildFile; fileRef = 35B6F45D0F1EC64B000761EA /* v2.xcmappingmodel */; };
+		35C10E6F0E0A4BCD006C732F /* MLTransactionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35C10E6E0E0A4BCD006C732F /* MLTransactionController.m */; };
+		35C10EAC0E0A571C006C732F /* MLTransactions.nib in Resources */ = {isa = PBXBuildFile; fileRef = 35C10EAA0E0A571C006C732F /* MLTransactions.nib */; };
+		35CB8E450E680C6B00BF36F7 /* MLCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CB8E440E680C6B00BF36F7 /* MLCalculator.m */; };
+		775DFF38067A968500C5B868 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */; };
+		8D15AC2C0486D014006FF6A4 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */; };
+		8D15AC2D0486D014006FF6A4 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 2A37F4B6FDCFA73011CA2CEA /* MainMenu.nib */; };
+		8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165FFE840EACC02AAC07 /* InfoPlist.strings */; };
+		8D15AC310486D014006FF6A4 /* MyDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */; settings = {ATTRIBUTES = (); }; };
+		8D15AC320486D014006FF6A4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4B0FDCFA73011CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C1660FE840EACC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDocument.m; sourceTree = "<group>"; };
+		2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDocument.h; sourceTree = "<group>"; };
+		2A37F4B0FDCFA73011CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2A37F4B7FDCFA73011CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		2A37F4BAFDCFA73011CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = English; path = English.lproj/Credits.rtf; sourceTree = "<group>"; };
+		2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32DBCF750370BD2300C91783 /* moolah_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = moolah_Prefix.pch; sourceTree = "<group>"; };
+		3502C4750E0FD4F100A2B11A /* MLAccounts.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = MLAccounts.nib; sourceTree = "<group>"; };
+		3502C47A0E0FD88900A2B11A /* MLAccountController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLAccountController.h; sourceTree = "<group>"; };
+		3502C47B0E0FD88900A2B11A /* MLAccountController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLAccountController.m; sourceTree = "<group>"; };
+		3537A2CE0EE9454D00096D89 /* MLimport.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = MLimport.nib; sourceTree = "<group>"; };
+		3559CC880E9240D000B973E6 /* Envelope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Envelope.h; sourceTree = "<group>"; };
+		3559CC890E9240D000B973E6 /* Envelope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Envelope.m; sourceTree = "<group>"; };
+		357B806B0F5FD8DE008BCB13 /* moolahcoredata_DataModel 3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "moolahcoredata_DataModel 3.xcdatamodel"; sourceTree = "<group>"; };
+		357B80B10F5FE1C2008BCB13 /* v3.xcmappingmodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcmappingmodel; path = v3.xcmappingmodel; sourceTree = "<group>"; };
+		3596B7EB0E0F42A70058B85C /* MLBudget.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = MLBudget.nib; sourceTree = "<group>"; };
+		3596B7EE0E0F42F00058B85C /* MLBudgetController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLBudgetController.h; sourceTree = "<group>"; };
+		3596B7EF0E0F42F00058B85C /* MLBudgetController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLBudgetController.m; sourceTree = "<group>"; };
+		3597ED5E0E8F870400547677 /* Account.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Account.h; sourceTree = "<group>"; };
+		3597ED5F0E8F870400547677 /* Account.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Account.m; sourceTree = "<group>"; };
+		359943310E3031F0000363B5 /* MLimportController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLimportController.h; sourceTree = "<group>"; };
+		359943320E3031F0000363B5 /* MLimportController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLimportController.m; sourceTree = "<group>"; };
+		35A6BBAD0E90DAFD0008429B /* MLappdelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLappdelegate.h; sourceTree = "<group>"; };
+		35A6BBAE0E90DAFD0008429B /* MLappdelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLappdelegate.m; sourceTree = "<group>"; };
+		35B6F4200F1EC38F000761EA /* moolahcoredata_DataModel 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "moolahcoredata_DataModel 2.xcdatamodel"; sourceTree = "<group>"; };
+		35B6F45D0F1EC64B000761EA /* v2.xcmappingmodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcmappingmodel; path = v2.xcmappingmodel; sourceTree = "<group>"; };
+		35BAA2080E56EB77000FE9AF /* NSEntityDescription+Transaction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSEntityDescription+Transaction.h"; sourceTree = "<group>"; };
+		35C10E6D0E0A4BCD006C732F /* MLTransactionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLTransactionController.h; sourceTree = "<group>"; };
+		35C10E6E0E0A4BCD006C732F /* MLTransactionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLTransactionController.m; sourceTree = "<group>"; };
+		35C10EAB0E0A571C006C732F /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MLTransactions.nib; sourceTree = "<group>"; };
+		35C10EBF0E0A591E006C732F /* moolahcoredata_DataModel 1.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = "moolahcoredata_DataModel 1.xcdatamodel"; sourceTree = "<group>"; };
+		35CB8E430E680C6B00BF36F7 /* MLCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCalculator.h; sourceTree = "<group>"; };
+		35CB8E440E680C6B00BF36F7 /* MLCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCalculator.m; sourceTree = "<group>"; };
+		7788DA0506752A1600599AAD /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		8D15AC360486D014006FF6A4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D15AC370486D014006FF6A4 /* moolah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = moolah.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D15AC330486D014006FF6A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				775DFF38067A968500C5B868 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A8FEA54F5311CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */,
+				7788DA0506752A1600599AAD /* CoreData.framework */,
+				2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FB0FE9D524F11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D15AC370486D014006FF6A4 /* moolah.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2A37F4AAFDCFA73011CA2CEA /* moolah */ = {
+			isa = PBXGroup;
+			children = (
+				E1B74B1A0667B4A90069E3BA /* Models */,
+				2A37F4ABFDCFA73011CA2CEA /* Classes */,
+				2A37F4AFFDCFA73011CA2CEA /* Other Sources */,
+				2A37F4B8FDCFA73011CA2CEA /* Resources */,
+				2A37F4C3FDCFA73011CA2CEA /* Frameworks */,
+				19C28FB0FE9D524F11CA2CBB /* Products */,
+			);
+			name = moolah;
+			sourceTree = "<group>";
+		};
+		2A37F4ABFDCFA73011CA2CEA /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */,
+				2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */,
+				35C10E6D0E0A4BCD006C732F /* MLTransactionController.h */,
+				35C10E6E0E0A4BCD006C732F /* MLTransactionController.m */,
+				3596B7EE0E0F42F00058B85C /* MLBudgetController.h */,
+				3596B7EF0E0F42F00058B85C /* MLBudgetController.m */,
+				3502C47A0E0FD88900A2B11A /* MLAccountController.h */,
+				3502C47B0E0FD88900A2B11A /* MLAccountController.m */,
+				359943310E3031F0000363B5 /* MLimportController.h */,
+				359943320E3031F0000363B5 /* MLimportController.m */,
+				35BAA2080E56EB77000FE9AF /* NSEntityDescription+Transaction.h */,
+				35CB8E430E680C6B00BF36F7 /* MLCalculator.h */,
+				35CB8E440E680C6B00BF36F7 /* MLCalculator.m */,
+				35A6BBAD0E90DAFD0008429B /* MLappdelegate.h */,
+				35A6BBAE0E90DAFD0008429B /* MLappdelegate.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		2A37F4AFFDCFA73011CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF750370BD2300C91783 /* moolah_Prefix.pch */,
+				2A37F4B0FDCFA73011CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		2A37F4B8FDCFA73011CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3537A2CE0EE9454D00096D89 /* MLimport.nib */,
+				35C10EAA0E0A571C006C732F /* MLTransactions.nib */,
+				2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */,
+				2A37F4B6FDCFA73011CA2CEA /* MainMenu.nib */,
+				8D15AC360486D014006FF6A4 /* Info.plist */,
+				089C165FFE840EACC02AAC07 /* InfoPlist.strings */,
+				3596B7EB0E0F42A70058B85C /* MLBudget.nib */,
+				3502C4750E0FD4F100A2B11A /* MLAccounts.nib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		2A37F4C3FDCFA73011CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */,
+				1058C7A8FEA54F5311CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E1B74B1A0667B4A90069E3BA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				35B6F41E0F1EC38F000761EA /* moolahcoredata_DataModel.xcdatamodeld */,
+				3559CC880E9240D000B973E6 /* Envelope.h */,
+				3559CC890E9240D000B973E6 /* Envelope.m */,
+				3597ED5E0E8F870400547677 /* Account.h */,
+				3597ED5F0E8F870400547677 /* Account.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D15AC270486D014006FF6A4 /* moolah */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 26FC0AA50875C8B900E6366F /* Build configuration list for PBXNativeTarget "moolah" */;
+			buildPhases = (
+				8D15AC2B0486D014006FF6A4 /* Resources */,
+				8D15AC300486D014006FF6A4 /* Sources */,
+				8D15AC330486D014006FF6A4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = moolah;
+			productInstallPath = "$(HOME)/Applications";
+			productName = moolah;
+			productReference = 8D15AC370486D014006FF6A4 /* moolah.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 26FC0AA90875C8B900E6366F /* Build configuration list for PBXProject "moolah" */;
+			compatibilityVersion = "Xcode 3.0";
+			hasScannedForEncodings = 1;
+			mainGroup = 2A37F4AAFDCFA73011CA2CEA /* moolah */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D15AC270486D014006FF6A4 /* moolah */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D15AC2B0486D014006FF6A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC2C0486D014006FF6A4 /* Credits.rtf in Resources */,
+				8D15AC2D0486D014006FF6A4 /* MainMenu.nib in Resources */,
+				8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */,
+				35C10EAC0E0A571C006C732F /* MLTransactions.nib in Resources */,
+				3596B7EC0E0F42A70058B85C /* MLBudget.nib in Resources */,
+				3502C4760E0FD4F100A2B11A /* MLAccounts.nib in Resources */,
+				3537A2CF0EE9454D00096D89 /* MLimport.nib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D15AC300486D014006FF6A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC310486D014006FF6A4 /* MyDocument.m in Sources */,
+				8D15AC320486D014006FF6A4 /* main.m in Sources */,
+				35C10E6F0E0A4BCD006C732F /* MLTransactionController.m in Sources */,
+				35B6F41F0F1EC38F000761EA /* moolahcoredata_DataModel.xcdatamodeld in Sources */,
+				3596B7F00E0F42F00058B85C /* MLBudgetController.m in Sources */,
+				3502C47C0E0FD88900A2B11A /* MLAccountController.m in Sources */,
+				359943330E3031F0000363B5 /* MLimportController.m in Sources */,
+				35CB8E450E680C6B00BF36F7 /* MLCalculator.m in Sources */,
+				3597ED600E8F870400547677 /* Account.m in Sources */,
+				35A6BBAF0E90DAFD0008429B /* MLappdelegate.m in Sources */,
+				3559CC8A0E9240D000B973E6 /* Envelope.m in Sources */,
+				35B6F45E0F1EC64B000761EA /* v2.xcmappingmodel in Sources */,
+				357B80B20F5FE1C2008BCB13 /* v3.xcmappingmodel in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165FFE840EACC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C1660FE840EACC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2A37F4B6FDCFA73011CA2CEA /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2A37F4B7FDCFA73011CA2CEA /* English */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+		2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2A37F4BAFDCFA73011CA2CEA /* English */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		35C10EAA0E0A571C006C732F /* MLTransactions.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35C10EAB0E0A571C006C732F /* English */,
+			);
+			name = MLTransactions.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		26FC0AA60875C8B900E6366F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = moolah_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = moolah;
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		26FC0AA70875C8B900E6366F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = moolah_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = moolah;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		26FC0AAA0875C8B900E6366F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+			};
+			name = Debug;
+		};
+		26FC0AAB0875C8B900E6366F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		26FC0AA50875C8B900E6366F /* Build configuration list for PBXNativeTarget "moolah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				26FC0AA60875C8B900E6366F /* Debug */,
+				26FC0AA70875C8B900E6366F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		26FC0AA90875C8B900E6366F /* Build configuration list for PBXProject "moolah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				26FC0AAA0875C8B900E6366F /* Debug */,
+				26FC0AAB0875C8B900E6366F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		35B6F41E0F1EC38F000761EA /* moolahcoredata_DataModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				35B6F45D0F1EC64B000761EA /* v2.xcmappingmodel */,
+				35C10EBF0E0A591E006C732F /* moolahcoredata_DataModel 1.xcdatamodel */,
+				35B6F4200F1EC38F000761EA /* moolahcoredata_DataModel 2.xcdatamodel */,
+				357B806B0F5FD8DE008BCB13 /* moolahcoredata_DataModel 3.xcdatamodel */,
+				357B80B10F5FE1C2008BCB13 /* v3.xcmappingmodel */,
+			);
+			currentVersion = 357B806B0F5FD8DE008BCB13 /* moolahcoredata_DataModel 3.xcdatamodel */;
+			path = moolahcoredata_DataModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 2A37F4A9FDCFA73011CA2CEA /* Project object */;
+}

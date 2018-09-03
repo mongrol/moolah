@@ -1,0 +1,11 @@
+#labels Docs
+===Welcome to moolah===
+
+New user's should hit the [GettingStarted] page.
+
+People with slightly fancier pants can take a peek at the reference pages.
+
+  * [AccountsWindow]
+  * [BudgetWindow] 
+  * [TransactionWindow]
+  * [ImportWindow]
